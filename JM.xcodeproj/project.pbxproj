@@ -277,6 +277,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Thota Surendra babu (EL5ZGTN6DT)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = PXJ934633Z;
+				GCC_GENERATE_TEST_COVERAGE_FILES = YES;
 				INFOPLIST_FILE = JM/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.buddysuri.app.jm.JM;
@@ -295,6 +296,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Thota Surendra babu (EL5ZGTN6DT)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = PXJ934633Z;
+				GCC_GENERATE_TEST_COVERAGE_FILES = YES;
 				INFOPLIST_FILE = JM/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.buddysuri.app.jm.JM;
