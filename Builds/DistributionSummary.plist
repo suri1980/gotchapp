@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>JM.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>82C501310C0A3A2DC1C80D77883D0CAAB3F151FE</string>
+				<key>dateExpires</key>
+				<string>21/6/18</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>PXJ934633Z.com.buddysuri.app.jm.JM</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>PXJ934633Z</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>PXJ934633Z.com.buddysuri.app.jm.JM</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>JM.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f831daa2-52f8-4344-bf6e-b53baaa5b25b</string>
+				<key>name</key>
+				<string>JMProfile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>PXJ934633Z</string>
+				<key>name</key>
+				<string></string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
