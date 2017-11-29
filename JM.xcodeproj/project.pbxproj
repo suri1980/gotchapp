@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					5A0BF0BC1FCC2A0A00AAC103 = {
 						CreatedOnToolsVersion = 9.0.1;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -275,15 +275,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Thota Surendra babu (EL5ZGTN6DT)";
-				CODE_SIGN_STYLE = Manual;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PXJ934633Z;
 				GCC_GENERATE_TEST_COVERAGE_FILES = YES;
 				INFOPLIST_FILE = JM/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.buddysuri.app.jm.JM;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f831daa2-52f8-4344-bf6e-b53baaa5b25b";
-				PROVISIONING_PROFILE_SPECIFIER = JMProfile;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -294,15 +295,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: Thota Surendra babu (EL5ZGTN6DT)";
-				CODE_SIGN_STYLE = Manual;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = PXJ934633Z;
 				GCC_GENERATE_TEST_COVERAGE_FILES = YES;
 				INFOPLIST_FILE = JM/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.buddysuri.app.jm.JM;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f831daa2-52f8-4344-bf6e-b53baaa5b25b";
-				PROVISIONING_PROFILE_SPECIFIER = JMProfile;
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
